@@ -64,8 +64,9 @@ Install:
 ### 2. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/nooreen-abuhmoud/store-warehouse-management-system.git
 cd store-warehouse-management-system
+
 ```
 
 ### 3. Create and activate a virtual environment
@@ -136,7 +137,7 @@ python src/app.py
 
 ## Notes for Reviewers
 
-This is a collaborative academic project. This public portfolio version intentionally excludes course reports, student IDs, local cache files, and database credentials. The included SQL file uses demonstration data to make the application easier to evaluate locally.
+This public portfolio version intentionally excludes course reports, student IDs, local cache files, and database credentials. The included SQL file uses demonstration data to make the application easier to evaluate locally.
 
 ## Security Improvements in This Portfolio Version
 
