@@ -1,6 +1,6 @@
 # Store & Warehouse Management System
 
-A desktop database application for managing a retail store and its warehouse. The project was originally developed as a university **Database Systems** team project and is presented here as a cleaned portfolio version.
+A desktop database application for managing a retail store and its warehouse. The project was originally developed as a university **Database Systems** project and is presented here as a cleaned portfolio version.
 
 ## Overview
 
